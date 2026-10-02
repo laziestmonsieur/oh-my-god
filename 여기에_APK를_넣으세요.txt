@@ -1,0 +1,1 @@
+서명된 Android 배포용 APK를 이 폴더에 넣고 config.js의 androidApkUrl을 설정하세요.
